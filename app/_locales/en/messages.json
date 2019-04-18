@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "mypassword",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "store my password",
+    "description": "The description of the application"
+  }
+}
